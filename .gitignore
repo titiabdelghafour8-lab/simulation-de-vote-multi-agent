@@ -7,6 +7,8 @@ out/
 out/
 *.class
 *.jar
+*.iml
+
 ### Eclipse ###
 .apt_generated
 .classpath
